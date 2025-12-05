@@ -1,5 +1,10 @@
-# Hi, I'm Jyoti Kalambe ✨  
-Aspiring Data Analyst 
+<p align="center">
+  # Hi, I'm Jyoti Kalambe ✨
+</p>
+
+<p align="center">
+  Aspiring Data Analyst
+</p>
 
 ---
 
@@ -15,15 +20,14 @@ Aspiring Data Analyst
 
 ## Skills & Tools I Use
 
-### Programming & Analysis
-- 🐍 Python (Pandas, NumPy, Matplotlib, Seaborn)  
-- 🗄️ SQL 
-- 📈 Excel (Pivot Tables, Dashboarding, Data Cleaning)  
-
-### BI & Visualization
-- 📊 Power BI (DAX, Power Query, Data Modeling)  
-- 🖼️ Storytelling with visuals  
-- 🎛️ KPI design and business metrics  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> 
+  <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white" alt="SQL"/> 
+  <img src="https://img.shields.io/badge/Power%20BI-F2C80F?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"/> 
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/> 
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/> 
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white" alt="NumPy"/>
+</p>
 
 ---
 
@@ -38,6 +42,9 @@ Aspiring Data Analyst
 ---
 
 ## Featured Projects
+<p align="center">
+Feel free to explore my projects! 🚀
+</p>
 
 ### 🍕 Pizza Sales Analysis
 - Revenue breakdown | Customer behavior | Top products  
@@ -58,8 +65,14 @@ Aspiring Data Analyst
 
 ---
 
+<p align="center">
 ## Connect With Me 💌
 - 📧 Email: jyotikalambe2003@gmail.com  
-- 🔗 LinkedIn: [https://www.linkedin.com/in/jyoti-kalambe118](https://www.linkedin.com/in/jyoti-kalambe118)  
+- 🔗 LinkedIn: [https://www.linkedin.com/in/jyoti-kalambe118](https://www.linkedin.com/in/jyoti-kalambe118)
+</p>
 
-💖 Thanks for visiting my profile!  
+
+<p align="center">
+💖 Thanks for visiting my profile!
+</p>
+
