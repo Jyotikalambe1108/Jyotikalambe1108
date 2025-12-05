@@ -76,7 +76,7 @@
 <p align="center">
 ## Connect With Me 💌
 - 📧 Email: jyotikalambe2003@gmail.com  
-- 🔗 LinkedIn: [https://www.linkedin.com/in/jyoti-kalambe118](https://www.linkedin.com/in/jyoti-kalambe118)
+- 🔗 LinkedIn: https://www.linkedin.com/in/jyoti-kalambe118
 </p>
 
 
