@@ -1,19 +1,7 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/ybZ5fUg.gif" width="100%" />
-</p>
-
 <h1 align="center">✨ Hi, I'm <span style="color:#f06292;">Jyoti Kalambe</span> ✨</h1>
 <h3 align="center">🌟 Aspiring Data Analyst | 📊 Insight Explorer | 💡 Dashboard Designer</h3>
 
----
-
-<!-- Typing animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=ff69b4&size=24&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;Power+BI+Dashboard+Designer;SQL+%7C+Python+Enthusiast;Turning+Data+Into+Business+Insights;Always+Learning+New+Skills+✨" />
-</p>
-
----
 
 ## 🌸 About Me
 💁‍♀️ Passionate about transforming raw data into clear business stories  
@@ -98,9 +86,5 @@
 🔗 **LinkedIn:**https://www.linkedin.com/in/jyoti-kalambe118
 
 ---
-
-<p align="center">
-  <img src="https://i.imgur.com/EE6XkV4.gif" width="200" />
-</p>
 
 <h3 align="center">💖 Thanks for visiting my profile!</h3>
