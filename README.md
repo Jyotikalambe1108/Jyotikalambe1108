@@ -17,7 +17,7 @@ Aspiring Data Analyst
 
 ### Programming & Analysis
 - 🐍 Python (Pandas, NumPy, Matplotlib, Seaborn)  
-- 🗄️ SQL (Joins, CTEs, Window Functions)  
+- 🗄️ SQL 
 - 📈 Excel (Pivot Tables, Dashboarding, Data Cleaning)  
 
 ### BI & Visualization
